@@ -1,0 +1,1182 @@
+{
+    "date": "2025-09-01",
+    "properties": [
+        {
+            "name": "1001 Robert-Bourassa",
+            "city": "Montr\u00e9al",
+            "total_gla": 960007,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/1001-boulevard-robert-bourassa-commercial/"
+        },
+        {
+            "name": "1010 Sherbrooke Ouest",
+            "city": "Montr\u00e9al",
+            "total_gla": 329679,
+            "available_suites": 11,
+            "link": "https://alliedreit.com/properties/1010-sherbrooke-street-w/"
+        },
+        {
+            "name": "1040 Hamilton",
+            "city": "Vancouver",
+            "total_gla": 45440,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/1040-hamilton-street/"
+        },
+        {
+            "name": "1050 Homer",
+            "city": "Vancouver",
+            "total_gla": 43099,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/1050-homer-street/"
+        },
+        {
+            "name": "106 Front East",
+            "city": "Toronto",
+            "total_gla": 34658,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/106-front-street-e/"
+        },
+        {
+            "name": "110 Yonge",
+            "city": "Toronto",
+            "total_gla": 161294,
+            "available_suites": 7,
+            "link": "https://alliedreit.com/properties/110-yonge-street-jv/"
+        },
+        {
+            "name": "116 Simcoe",
+            "city": "Toronto",
+            "total_gla": 15525,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/116-simcoe-street/"
+        },
+        {
+            "name": "117-119 John",
+            "city": "Toronto",
+            "total_gla": 7562,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/117-119-john-street/"
+        },
+        {
+            "name": "1185 West Georgia",
+            "city": "Vancouver",
+            "total_gla": 166982,
+            "available_suites": 7,
+            "link": "https://alliedreit.com/properties/1185-west-georgia-street/"
+        },
+        {
+            "name": "12 Brant",
+            "city": "Toronto",
+            "total_gla": 11936,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/12-brant-street/"
+        },
+        {
+            "name": "121 John",
+            "city": "Toronto",
+            "total_gla": 3446,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/121-john-street/"
+        },
+        {
+            "name": "125 John",
+            "city": "Toronto",
+            "total_gla": 2969,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/125-john-street/"
+        },
+        {
+            "name": "1286 Homer",
+            "city": "Vancouver",
+            "total_gla": 25613,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/1286-homer-street/"
+        },
+        {
+            "name": "137 George",
+            "city": "Toronto",
+            "total_gla": 2399,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/135-137-george-street/"
+        },
+        {
+            "name": "141 Bathurst",
+            "city": "Toronto",
+            "total_gla": 10101,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/141-bathurst-street/"
+        },
+        {
+            "name": "1508 West Broadway",
+            "city": "Vancouver",
+            "total_gla": 133287,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/1508-west-broadway/"
+        },
+        {
+            "name": "151-155 West Hastings",
+            "city": "Vancouver",
+            "total_gla": 36407,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/151-155-west-hastings-street/"
+        },
+        {
+            "name": "1580 West Broadway",
+            "city": "Vancouver",
+            "total_gla": 12561,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/1580-west-broadway/"
+        },
+        {
+            "name": "175 Bloor East",
+            "city": "Toronto",
+            "total_gla": 610750,
+            "available_suites": 21,
+            "link": "https://alliedreit.com/properties/175-bloor-street-e-jv/"
+        },
+        {
+            "name": "179 John",
+            "city": "Toronto",
+            "total_gla": 70897,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/179-john-street/"
+        },
+        {
+            "name": "180 John",
+            "city": "Toronto",
+            "total_gla": 45631,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/180-john-street/"
+        },
+        {
+            "name": "183 Bathurst",
+            "city": "Toronto",
+            "total_gla": 29779,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/183-bathurst-street/"
+        },
+        {
+            "name": "184 Front East",
+            "city": "Toronto",
+            "total_gla": 88945,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/184-front-street-e/"
+        },
+        {
+            "name": "185 Spadina",
+            "city": "Toronto",
+            "total_gla": 55213,
+            "available_suites": 8,
+            "link": "https://alliedreit.com/properties/185-spadina-avenue/"
+        },
+        {
+            "name": "19 Duncan",
+            "city": "Toronto",
+            "total_gla": 152799,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/19-duncan-commercial/"
+        },
+        {
+            "name": "193 Yonge",
+            "city": "Toronto",
+            "total_gla": 51247,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/193-yonge-street/"
+        },
+        {
+            "name": "195 Joseph",
+            "city": "Kitchener",
+            "total_gla": 26462,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/195-joseph-street/"
+        },
+        {
+            "name": "200 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 26614,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/200-adelaide-street-w/"
+        },
+        {
+            "name": "204-214 King East",
+            "city": "Toronto",
+            "total_gla": 128923,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/204-214-king-street-e/"
+        },
+        {
+            "name": "217-225 Richmond West",
+            "city": "Toronto",
+            "total_gla": 52870,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/217-richmond-street-w/"
+        },
+        {
+            "name": "2233 Columbia",
+            "city": "Vancouver",
+            "total_gla": 28443,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/2233-columbia-street/"
+        },
+        {
+            "name": "230 Richmond East",
+            "city": "Toronto",
+            "total_gla": 73542,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/230-richmond-street-e/"
+        },
+        {
+            "name": "241 Spadina",
+            "city": "Toronto",
+            "total_gla": 30873,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/241-spadina-avenue/"
+        },
+        {
+            "name": "25 Breithaupt",
+            "city": "Kitchener",
+            "total_gla": 93689,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/25-breithaupt-reit-only/"
+        },
+        {
+            "name": "252-264 Adelaide East",
+            "city": "Toronto",
+            "total_gla": 41995,
+            "available_suites": 9,
+            "link": "https://alliedreit.com/properties/252-264-adelaide-street-e/"
+        },
+        {
+            "name": "257 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 37927,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/257-adelaide-street-w/"
+        },
+        {
+            "name": "28 Atlantic",
+            "city": "Toronto",
+            "total_gla": 10065,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/28-atlantic-avenue/"
+        },
+        {
+            "name": "312 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 68008,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/312-adelaide-street-w-2/"
+        },
+        {
+            "name": "32 Atlantic",
+            "city": "Toronto",
+            "total_gla": 50434,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/32-atlantic/"
+        },
+        {
+            "name": "331-333 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 22783,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/331-333-adelaide-w/"
+        },
+        {
+            "name": "342 Water",
+            "city": "Vancouver",
+            "total_gla": 21640,
+            "available_suites": 6,
+            "link": "https://alliedreit.com/properties/342-water-street/"
+        },
+        {
+            "name": "35-39 Front East",
+            "city": "Toronto",
+            "total_gla": 48640,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/35-39-front-street-e/"
+        },
+        {
+            "name": "3510 Saint-Laurent",
+            "city": "Montr\u00e9al",
+            "total_gla": 100667,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/3510-saint-laurent/"
+        },
+        {
+            "name": "3530-3540 Saint-Laurent",
+            "city": "Montr\u00e9al",
+            "total_gla": 56329,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/3530-3540-saint-laurent/"
+        },
+        {
+            "name": "3575 Saint-Laurent",
+            "city": "Montr\u00e9al",
+            "total_gla": 184317,
+            "available_suites": 15,
+            "link": "https://alliedreit.com/properties/3575-saint-laurent/"
+        },
+        {
+            "name": "358-360 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 50786,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/358-360-adelaide-street-w/"
+        },
+        {
+            "name": "36-40 Wellington East",
+            "city": "Toronto",
+            "total_gla": 21444,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/36-40-wellington-street-e/"
+        },
+        {
+            "name": "365 Railway",
+            "city": "Vancouver",
+            "total_gla": 21734,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/365-railway-street/"
+        },
+        {
+            "name": "375 Water",
+            "city": "Vancouver",
+            "total_gla": 177944,
+            "available_suites": 9,
+            "link": "https://alliedreit.com/properties/375-water-street/"
+        },
+        {
+            "name": "375-381 Queen West",
+            "city": "Toronto",
+            "total_gla": 95895,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/375-381-queen-street-w/"
+        },
+        {
+            "name": "379 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 39968,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/379-adelaide-street-w/"
+        },
+        {
+            "name": "383 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 4515,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/383-adelaide-street-w-2/"
+        },
+        {
+            "name": "387 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 6500,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/387-adelaide-street-w/"
+        },
+        {
+            "name": "388 King West",
+            "city": "Toronto",
+            "total_gla": 31210,
+            "available_suites": 6,
+            "link": "https://alliedreit.com/properties/388-king-street-w/"
+        },
+        {
+            "name": "400 Atlantic",
+            "city": "Montr\u00e9al",
+            "total_gla": 91776,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/400-atlantic/"
+        },
+        {
+            "name": "400 West Georgia Street",
+            "city": "Vancouver",
+            "total_gla": 347392,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/400-west-georgia-street/"
+        },
+        {
+            "name": "41-45 Front East",
+            "city": "Toronto",
+            "total_gla": 34592,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/41-45-front-street-e/"
+        },
+        {
+            "name": "420 Wellington West",
+            "city": "Toronto",
+            "total_gla": 34369,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/420-wellington-street-w/"
+        },
+        {
+            "name": "425 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 74672,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/425-adelaide-street-w/"
+        },
+        {
+            "name": "425 Viger Ouest",
+            "city": "Montr\u00e9al",
+            "total_gla": 316097,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/425-viger-w/"
+        },
+        {
+            "name": "425-439 King West",
+            "city": "Toronto",
+            "total_gla": 89700,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/425-439-king-street-w/"
+        },
+        {
+            "name": "432 Wellington West",
+            "city": "Toronto",
+            "total_gla": 8997,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/432-wellington-street-w/"
+        },
+        {
+            "name": "4396-4410 Saint Laurent",
+            "city": "Montr\u00e9al",
+            "total_gla": 55455,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/4396-4410-saint-laurent/"
+        },
+        {
+            "name": "441-443 King West",
+            "city": "Toronto",
+            "total_gla": 9281,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/441-443-king-street-w/"
+        },
+        {
+            "name": "445-455 King West",
+            "city": "Toronto",
+            "total_gla": 47852,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/445-455-king-street-w/"
+        },
+        {
+            "name": "45-55 Colborne",
+            "city": "Toronto",
+            "total_gla": 43909,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/45-55-colborne-street/"
+        },
+        {
+            "name": "451-481 Saint-Catherine Ouest",
+            "city": "Montr\u00e9al",
+            "total_gla": 31027,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/451-481-sainte-catherine-w/"
+        },
+        {
+            "name": "460 King West",
+            "city": "Toronto",
+            "total_gla": 14799,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/460-king-street-w/"
+        },
+        {
+            "name": "461 King West",
+            "city": "Toronto",
+            "total_gla": 74549,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/461-king-street-w/"
+        },
+        {
+            "name": "468 King West",
+            "city": "Toronto",
+            "total_gla": 55154,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/468-king-street-w/"
+        },
+        {
+            "name": "469 King West",
+            "city": "Toronto",
+            "total_gla": 73417,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/469-king-street-w/"
+        },
+        {
+            "name": "47 Front East",
+            "city": "Toronto",
+            "total_gla": 11988,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/47-front-street-e/"
+        },
+        {
+            "name": "47 Jefferson",
+            "city": "Toronto",
+            "total_gla": 6884,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/47-jefferson-avenue/"
+        },
+        {
+            "name": "478 King West",
+            "city": "Toronto",
+            "total_gla": 8701,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/478-king-street-w-retail/"
+        },
+        {
+            "name": "485 King West",
+            "city": "Toronto",
+            "total_gla": 12339,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/485-king-street-w/"
+        },
+        {
+            "name": "489 Queen East",
+            "city": "Toronto",
+            "total_gla": 31737,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/489-queen-street-e/"
+        },
+        {
+            "name": "49 Front East",
+            "city": "Toronto",
+            "total_gla": 19917,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/49-front-street-e/"
+        },
+        {
+            "name": "491 College",
+            "city": "Toronto",
+            "total_gla": 25159,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/college-palmerston-491-college-street-jv/"
+        },
+        {
+            "name": "50 Wellington East",
+            "city": "Toronto",
+            "total_gla": 34566,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/50-wellington-street-e/"
+        },
+        {
+            "name": "500 King West",
+            "city": "Toronto",
+            "total_gla": 65728,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/500-king-street-w/"
+        },
+        {
+            "name": "51 Breithaupt",
+            "city": "Kitchener",
+            "total_gla": 132565,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/51-breithaupt-reit-only/"
+        },
+        {
+            "name": "522 King West",
+            "city": "Toronto",
+            "total_gla": 50713,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/522-king-street-w/"
+        },
+        {
+            "name": "525 University",
+            "city": "Toronto",
+            "total_gla": 208393,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/525-university-avenue-2/"
+        },
+        {
+            "name": "54 The Esplanade",
+            "city": "Toronto",
+            "total_gla": 9038,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/54-the-esplanade/"
+        },
+        {
+            "name": "544 King West",
+            "city": "Toronto",
+            "total_gla": 16340,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/544-king-street-w/"
+        },
+        {
+            "name": "5445 De Gasp\u00e9",
+            "city": "Montr\u00e9al",
+            "total_gla": 484585,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/5445-de-gaspe/"
+        },
+        {
+            "name": "5455 de Gasp\u00e9",
+            "city": "Montr\u00e9al",
+            "total_gla": 489415,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/5455-de-gaspe/"
+        },
+        {
+            "name": "5505 Saint-Laurent",
+            "city": "Montr\u00e9al",
+            "total_gla": 246009,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/5505-saint-laurent/"
+        },
+        {
+            "name": "552-560 King West",
+            "city": "Toronto",
+            "total_gla": 24179,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/552-560-king-street-w/"
+        },
+        {
+            "name": "555 Richmond West",
+            "city": "Toronto",
+            "total_gla": 297898,
+            "available_suites": 18,
+            "link": "https://alliedreit.com/properties/555-richmond-street-w/"
+        },
+        {
+            "name": "559-563 College",
+            "city": "Toronto",
+            "total_gla": 54520,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/college-manning-559-563-college-street-jv/"
+        },
+        {
+            "name": "56 The Esplanade",
+            "city": "Toronto",
+            "total_gla": 81406,
+            "available_suites": 14,
+            "link": "https://alliedreit.com/properties/56-the-esplanade/"
+        },
+        {
+            "name": "579 Richmond West",
+            "city": "Toronto",
+            "total_gla": 26818,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/579-richmond-street-w/"
+        },
+        {
+            "name": "60 Adelaide East",
+            "city": "Toronto",
+            "total_gla": 110625,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/60-adelaide-street-e/"
+        },
+        {
+            "name": "613 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 4288,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/613-11th-sw/"
+        },
+        {
+            "name": "617 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 9535,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/617-11th-avenue-sw/"
+        },
+        {
+            "name": "6300 Du Parc",
+            "city": "Montr\u00e9al",
+            "total_gla": 188710,
+            "available_suites": 6,
+            "link": "https://alliedreit.com/properties/6300-du-parc/"
+        },
+        {
+            "name": "64 Jefferson",
+            "city": "Toronto",
+            "total_gla": 78820,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/64-jefferson-avenue/"
+        },
+        {
+            "name": "65 Front East",
+            "city": "Toronto",
+            "total_gla": 19962,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/65-front-street-e/"
+        },
+        {
+            "name": "70 Richmond East",
+            "city": "Toronto",
+            "total_gla": 28463,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/70-richmond-street-e/"
+        },
+        {
+            "name": "70 The Esplanade",
+            "city": "Toronto",
+            "total_gla": 25699,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/70-the-esplanade/"
+        },
+        {
+            "name": "700 Saint Antoine & 755 Berri",
+            "city": "Montr\u00e9al",
+            "total_gla": 125277,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/700-saint-antoine-755-berri/"
+        },
+        {
+            "name": "700 Saint-Hubert",
+            "city": "Montr\u00e9al",
+            "total_gla": 143725,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/700-rue-saint-hubert/"
+        },
+        {
+            "name": "72 Victoria",
+            "city": "Kitchener",
+            "total_gla": 90024,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/72-victoria-street/"
+        },
+        {
+            "name": "747 Square-Victoria",
+            "city": "Montr\u00e9al",
+            "total_gla": 570712,
+            "available_suites": 11,
+            "link": "https://alliedreit.com/properties/747-rue-du-square-victoria/"
+        },
+        {
+            "name": "80-82 Spadina",
+            "city": "Toronto",
+            "total_gla": 76057,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/80-82-spadina-avenue/"
+        },
+        {
+            "name": "82 Peter",
+            "city": "Toronto",
+            "total_gla": 45429,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/82-peter-street/"
+        },
+        {
+            "name": "840 Cambie",
+            "city": "Vancouver",
+            "total_gla": 89377,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/840-cambie-street/"
+        },
+        {
+            "name": "905 King West",
+            "city": "Toronto",
+            "total_gla": 0,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/905-king-street-w-office/"
+        },
+        {
+            "name": "948-950 Homer",
+            "city": "Vancouver",
+            "total_gla": 45003,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/948-950-homer-street/"
+        },
+        {
+            "name": "96 Spadina",
+            "city": "Toronto",
+            "total_gla": 86153,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/96-spadina-avenue/"
+        },
+        {
+            "name": "99 Spadina",
+            "city": "Toronto",
+            "total_gla": 51070,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/99-spadina-avenue-2/"
+        },
+        {
+            "name": "Alberta Block \u2013 805 1st Southwest",
+            "city": "Calgary",
+            "total_gla": 31131,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/alberta-block-805-1st-street-sw/"
+        },
+        {
+            "name": "Alberta Hotel \u2013 808 1st Southwest",
+            "city": "Calgary",
+            "total_gla": 48232,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/alberta-hotel-808-1st-street-sw/"
+        },
+        {
+            "name": "Atrium On Eleventh \u2013 625 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 35763,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/atrium-on-eleventh-625-11th-avenue-sw/"
+        },
+        {
+            "name": "Biscuit Block \u2013 438 11th Southeast",
+            "city": "Calgary",
+            "total_gla": 51298,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/biscuit-block-438-11th-avenue-se/"
+        },
+        {
+            "name": "Burns Building \u2013 237 8th Southeast",
+            "city": "Calgary",
+            "total_gla": 74861,
+            "available_suites": 9,
+            "link": "https://alliedreit.com/properties/burns-building-237-8th-avenue-se/"
+        },
+        {
+            "name": "Cooper Block \u2013 809 10th Southwest",
+            "city": "Calgary",
+            "total_gla": 35256,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/cooper-block-809-10th-avenue-sw/"
+        },
+        {
+            "name": "Customs House \u2013 134 11th Southeast",
+            "city": "Calgary",
+            "total_gla": 77097,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/customs-house-134-11th-avenue-se/"
+        },
+        {
+            "name": "Demcor Condo \u2013 221 10th Southeast",
+            "city": "Calgary",
+            "total_gla": 14253,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/demcor-condo-221-10th-avenue-se/"
+        },
+        {
+            "name": "Demcor Tower \u2013 239 10th Southeast",
+            "city": "Calgary",
+            "total_gla": 25342,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/demcor-tower-239-10th-avenue-se/"
+        },
+        {
+            "name": "Dominion \u2013 207 West Hastings",
+            "city": "Vancouver",
+            "total_gla": 75628,
+            "available_suites": 16,
+            "link": "https://alliedreit.com/properties/the-dominion-building-207-west-hastings-street/"
+        },
+        {
+            "name": "Dominion Square \u2013 468 Queen North",
+            "city": "Toronto",
+            "total_gla": 33906,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/dominion-square-468-queen-n/"
+        },
+        {
+            "name": "Dominion Square \u2013 468 Queen South",
+            "city": "Toronto",
+            "total_gla": 43359,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/312-adelaide-street-w/"
+        },
+        {
+            "name": "Dominion Square \u2013 478-496 Queen",
+            "city": "Toronto",
+            "total_gla": 40079,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/dominion-square-478-496-queen/"
+        },
+        {
+            "name": "El Pro Lofts \u2013 644 Courcelle",
+            "city": "Montr\u00e9al",
+            "total_gla": 154143,
+            "available_suites": 18,
+            "link": "https://alliedreit.com/properties/el-pro-lofts-644-courcelle-street/"
+        },
+        {
+            "name": "Five Roses Building \u2013 731-739 10th Southwest",
+            "city": "Calgary",
+            "total_gla": 20808,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/five-roses-building-731-739-10th-avenue-sw/"
+        },
+        {
+            "name": "Glenbow \u2013 802 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 7319,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/glenbow-802-11th-avenue-sw-jv/"
+        },
+        {
+            "name": "Glenbow Annex \u2013 816 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 9021,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/glenbow-annex-816-11th-avenue-sw/"
+        },
+        {
+            "name": "Glenbow Building \u2013 822 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 17656,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/glenbow-building-822-11th-avenue-sw/"
+        },
+        {
+            "name": "Glenbow Cornerblock \u2013 838 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 22210,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/glenbow-cornerblock-838-11th-avenue-sw/"
+        },
+        {
+            "name": "Glenbow Ellison \u2013 812 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 13344,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/glenbow-ellison-812-11th-avenue-sw/"
+        },
+        {
+            "name": "King Portland Centre \u2013 602-604 King West",
+            "city": "Toronto",
+            "total_gla": 51142,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/kpc-602-604-king-street-w-jv/"
+        },
+        {
+            "name": "King Portland Centre \u2013 620 King West",
+            "city": "Toronto",
+            "total_gla": 273655,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/kpc-620-king-street-w/"
+        },
+        {
+            "name": "King Portland Centre \u2013 642 King West",
+            "city": "Toronto",
+            "total_gla": 25469,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/kpc-642-king-street-w-jv/"
+        },
+        {
+            "name": "Kipling Square \u2013 601 10th Southwest",
+            "city": "Calgary",
+            "total_gla": 48502,
+            "available_suites": 12,
+            "link": "https://alliedreit.com/properties/kipling-square-601-10th-avenue-sw/"
+        },
+        {
+            "name": "La Cit\u00e9 \u2013 111 Robert-Bourassa",
+            "city": "Montr\u00e9al",
+            "total_gla": 370829,
+            "available_suites": 7,
+            "link": "https://alliedreit.com/properties/cdm-111-boulevard-robert-bourassa/"
+        },
+        {
+            "name": "La Cit\u00e9 \u2013 50 Queen",
+            "city": "Montr\u00e9al",
+            "total_gla": 26996,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/cdm-50-queen/"
+        },
+        {
+            "name": "La Cit\u00e9 \u2013 645 Wellington",
+            "city": "Montr\u00e9al",
+            "total_gla": 136114,
+            "available_suites": 11,
+            "link": "https://alliedreit.com/properties/645-wellington/"
+        },
+        {
+            "name": "La Cit\u00e9 \u2013 700 Wellington",
+            "city": "Montr\u00e9al",
+            "total_gla": 135232,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/cdm-700-wellington/"
+        },
+        {
+            "name": "La Cit\u00e9 \u2013 740 Saint-Maurice",
+            "city": "Montr\u00e9al",
+            "total_gla": 68703,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/740-saint-maurice/"
+        },
+        {
+            "name": "La Cit\u00e9 \u2013 75 Queen",
+            "city": "Montr\u00e9al",
+            "total_gla": 255824,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/cdm-75-queen/"
+        },
+        {
+            "name": "La Cit\u00e9 \u2013 80 Queen",
+            "city": "Montr\u00e9al",
+            "total_gla": 69247,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/cdm-80-queen/"
+        },
+        {
+            "name": "La Cit\u00e9 \u2013 87 Prince",
+            "city": "Montr\u00e9al",
+            "total_gla": 100129,
+            "available_suites": 7,
+            "link": "https://alliedreit.com/properties/cdm-87-prince/"
+        },
+        {
+            "name": "Leeson Lineham Bldg \u2013 209 8th Southwest",
+            "city": "Calgary",
+            "total_gla": 33241,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/leeson-lineham-bldg-209-8th-avenue-sw/"
+        },
+        {
+            "name": "LocalMotive \u2013 1240 20th Southeast",
+            "city": "Calgary",
+            "total_gla": 57536,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/localmotive-1240-20th-avenue-se/"
+        },
+        {
+            "name": "Lougheed Block \u2013 604 1st Southwest",
+            "city": "Calgary",
+            "total_gla": 87778,
+            "available_suites": 26,
+            "link": "https://alliedreit.com/properties/the-lougheed-building-604-1st-street-sw/"
+        },
+        {
+            "name": "Nordelec \u2013 1751 Richardson",
+            "city": "Montr\u00e9al",
+            "total_gla": 824968,
+            "available_suites": 31,
+            "link": "https://alliedreit.com/properties/nordelec-1751-richardson-street/"
+        },
+        {
+            "name": "OddFellows \u2013 100 6th Southwest",
+            "city": "Calgary",
+            "total_gla": 33487,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/oddfellows-100-6th-avenue-sw/"
+        },
+        {
+            "name": "Pilkington Building \u2013 402 11th Southeast",
+            "city": "Calgary",
+            "total_gla": 40018,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/pilkington-building-402-11th-avenue-se/"
+        },
+        {
+            "name": "QRC East \u2013 111 Queen East",
+            "city": "Toronto",
+            "total_gla": 211681,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/qrc-east-111-queen-e/"
+        },
+        {
+            "name": "QRC West \u2013 134 Peter, Phase I",
+            "city": "Toronto",
+            "total_gla": 306995,
+            "available_suites": 6,
+            "link": "https://alliedreit.com/properties/qrc-west-134-peter-street/"
+        },
+        {
+            "name": "QRC West \u2013 364 Richmond West, Phase I",
+            "city": "Toronto",
+            "total_gla": 37696,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/qrc-west-364-richmond-street-w/"
+        },
+        {
+            "name": "RCA \u2013 1001 Lenoir",
+            "city": "Montr\u00e9al",
+            "total_gla": 344620,
+            "available_suites": 23,
+            "link": "https://alliedreit.com/properties/rca-building-1001-lenoir-street/"
+        },
+        {
+            "name": "Roberts Block \u2013 603-605 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 51288,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/roberts-block-603-605-11th-avenue-sw/"
+        },
+        {
+            "name": "Sherwin Block \u2013 738 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 26495,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/sherwin-block-738-11th-avenue-sw/"
+        },
+        {
+            "name": "Sun Tower \u2013 128 West Pender",
+            "city": "Vancouver",
+            "total_gla": 78085,
+            "available_suites": 8,
+            "link": "https://alliedreit.com/properties/sun-tower-128-west-pender-street/"
+        },
+        {
+            "name": "Telephone Building \u2013 119 6th South West",
+            "city": "Calgary",
+            "total_gla": 63064,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/telephone-building-119-6th-avenue-sw/"
+        },
+        {
+            "name": "The Castle \u2013 135 Liberty",
+            "city": "Toronto",
+            "total_gla": 55760,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/the-castle-135-liberty-street-2/"
+        },
+        {
+            "name": "The Castle \u2013 41 Fraser",
+            "city": "Toronto",
+            "total_gla": 14857,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/the-castle-41-fraser-avenue/"
+        },
+        {
+            "name": "The Castle \u2013 47 Fraser",
+            "city": "Toronto",
+            "total_gla": 10948,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/the-castle-47-fraser-avenue/"
+        },
+        {
+            "name": "The Castle \u2013 49 Fraser",
+            "city": "Toronto",
+            "total_gla": 17472,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/the-castle-49-fraser-avenue/"
+        },
+        {
+            "name": "The Castle \u2013 53 Fraser",
+            "city": "Toronto",
+            "total_gla": 78797,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/the-castle-53-fraser-avenue/"
+        },
+        {
+            "name": "The Castle \u2013 8 Pardee",
+            "city": "Toronto",
+            "total_gla": 2681,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/the-castle-8-pardee-avenue/"
+        },
+        {
+            "name": "The Tannery \u2013 151 Charles West",
+            "city": "Kitchener",
+            "total_gla": 331495,
+            "available_suites": 11,
+            "link": "https://alliedreit.com/properties/the-tannery-151-charles-street-w/"
+        },
+        {
+            "name": "Vintage Towers \u2013 322-326 11th Southwest",
+            "city": "Calgary",
+            "total_gla": 212326,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/vintage-towers-322-326-11th-avenue-sw/"
+        },
+        {
+            "name": "Woodstone Bldg \u2013 1207-1215 13th Southeast",
+            "city": "Calgary",
+            "total_gla": 32428,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/woodstone-bldg-1207-1215-13th-street-se/"
+        },
+        {
+            "name": "Young Block \u2013 129 8th Southwest",
+            "city": "Calgary",
+            "total_gla": 7005,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/young-block-129-8th-avenue-sw/"
+        }
+    ],
+    "skipped_properties": []
+}

@@ -1,0 +1,357 @@
+{
+    "date": "2026-02-19",
+    "properties": [
+        {
+            "name": "1001 Robert-Bourassa",
+            "city": "Montr\u00e9al",
+            "total_gla": 992392,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/1001-boulevard-robert-bourassa-commercial/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1010 Sherbrooke Ouest",
+            "city": "Montr\u00e9al",
+            "total_gla": 329679,
+            "available_suites": 10,
+            "link": "https://alliedreit.com/properties/1010-sherbrooke-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1040 Hamilton",
+            "city": "Vancouver",
+            "total_gla": 45440,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/1040-hamilton-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1050 Homer",
+            "city": "Vancouver",
+            "total_gla": 43099,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/1050-homer-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "106 Front East",
+            "city": "Toronto",
+            "total_gla": 34658,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/106-front-street-e/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "110 Yonge",
+            "city": "Toronto",
+            "total_gla": 161294,
+            "available_suites": 7,
+            "link": "https://alliedreit.com/properties/110-yonge-street-jv/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "116 Simcoe",
+            "city": "Toronto",
+            "total_gla": 15525,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/116-simcoe-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "117-119 John",
+            "city": "Toronto",
+            "total_gla": 7562,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/117-119-john-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1185 West Georgia",
+            "city": "Vancouver",
+            "total_gla": 166982,
+            "available_suites": 7,
+            "link": "https://alliedreit.com/properties/1185-west-georgia-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "12 Brant",
+            "city": "Toronto",
+            "total_gla": 11936,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/12-brant-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "121 John",
+            "city": "Toronto",
+            "total_gla": 3446,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/121-john-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "125 John",
+            "city": "Toronto",
+            "total_gla": 2969,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/125-john-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1286 Homer",
+            "city": "Vancouver",
+            "total_gla": 25613,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/1286-homer-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "137 George",
+            "city": "Toronto",
+            "total_gla": 2399,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/135-137-george-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "141 Bathurst",
+            "city": "Toronto",
+            "total_gla": 10101,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/141-bathurst-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1508 West Broadway",
+            "city": "Vancouver",
+            "total_gla": 133287,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/1508-west-broadway/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "151-155 West Hastings",
+            "city": "Vancouver",
+            "total_gla": 36407,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/151-155-west-hastings-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1580 West Broadway",
+            "city": "Vancouver",
+            "total_gla": 12561,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/1580-west-broadway/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "175 Bloor East",
+            "city": "Toronto",
+            "total_gla": 610750,
+            "available_suites": 21,
+            "link": "https://alliedreit.com/properties/175-bloor-street-e-jv/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "179 John",
+            "city": "Toronto",
+            "total_gla": 70897,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/179-john-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "180 John",
+            "city": "Toronto",
+            "total_gla": 45631,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/180-john-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "184 Front East",
+            "city": "Toronto",
+            "total_gla": 88945,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/184-front-street-e/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "185 Spadina",
+            "city": "Toronto",
+            "total_gla": 49201,
+            "available_suites": 8,
+            "link": "https://alliedreit.com/properties/185-spadina-avenue/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "19 Duncan",
+            "city": "Toronto",
+            "total_gla": 152799,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/19-duncan-commercial/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "193 Yonge",
+            "city": "Toronto",
+            "total_gla": 51247,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/193-yonge-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "195 Joseph",
+            "city": "Kitchener",
+            "total_gla": 26462,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/195-joseph-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "20 Breithaupt Street",
+            "city": "Kitchener",
+            "total_gla": 294058,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/20-breithaupt-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "200 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 26614,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/200-adelaide-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "204-214 King East",
+            "city": "Toronto",
+            "total_gla": 128923,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/204-214-king-street-e/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "208-210 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 11477,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/208-adelaide-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        }
+    ],
+    "skipped_properties": [
+        {
+            "name": "1001 Robert-Bourassa",
+            "link": "https://alliedreit.com/properties/1001-boulevard-robert-bourassa-commercial/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "1010 Sherbrooke Ouest",
+            "link": "https://alliedreit.com/properties/1010-sherbrooke-street-w/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "106 Front East",
+            "link": "https://alliedreit.com/properties/106-front-street-e/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "110 Yonge",
+            "link": "https://alliedreit.com/properties/110-yonge-street-jv/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "116 Simcoe",
+            "link": "https://alliedreit.com/properties/116-simcoe-street/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "1185 West Georgia",
+            "link": "https://alliedreit.com/properties/1185-west-georgia-street/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "121 John",
+            "link": "https://alliedreit.com/properties/121-john-street/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "1508 West Broadway",
+            "link": "https://alliedreit.com/properties/1508-west-broadway/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "1580 West Broadway",
+            "link": "https://alliedreit.com/properties/1580-west-broadway/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "175 Bloor East",
+            "link": "https://alliedreit.com/properties/175-bloor-street-e-jv/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "179 John",
+            "link": "https://alliedreit.com/properties/179-john-street/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "184 Front East",
+            "link": "https://alliedreit.com/properties/184-front-street-e/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "185 Spadina",
+            "link": "https://alliedreit.com/properties/185-spadina-avenue/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "200 Adelaide West",
+            "link": "https://alliedreit.com/properties/200-adelaide-street-w/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "204-214 King East",
+            "link": "https://alliedreit.com/properties/204-214-king-street-e/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        },
+        {
+            "name": "208-210 Adelaide West",
+            "link": "https://alliedreit.com/properties/208-adelaide-street-w/",
+            "reason": "HTTPConnectionPool(host='localhost', port=54939): Max retries exceeded with url: /session/ed0546053250fbb3bcb8fa4175c9f1b4/url (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=54939): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+        }
+    ]
+}

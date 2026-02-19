@@ -1,0 +1,2169 @@
+{
+    "date": "2025-10-13",
+    "properties": [
+        {
+            "name": "1001 Robert-Bourassa",
+            "city": "Montr\u00e9al",
+            "total_gla": 1000981,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/1001-boulevard-robert-bourassa-commercial/",
+            "available_sqft": 85182,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "2000H-PU",
+                    "type": "Office",
+                    "sq_ft": 36889,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "2400-PU",
+                    "type": "Office",
+                    "sq_ft": 8300,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "2420-PU",
+                    "type": "Office",
+                    "sq_ft": 4984,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "2800",
+                    "type": "Office",
+                    "sq_ft": 35009,
+                    "availability": "Q3 2026",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "1010 Sherbrooke Ouest",
+            "city": "Montr\u00e9al",
+            "total_gla": 329679,
+            "available_suites": 11,
+            "link": "https://alliedreit.com/properties/1010-sherbrooke-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1040 Hamilton",
+            "city": "Vancouver",
+            "total_gla": 45440,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/1040-hamilton-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1050 Homer",
+            "city": "Vancouver",
+            "total_gla": 43099,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/1050-homer-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "106 Front East",
+            "city": "Toronto",
+            "total_gla": 34658,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/106-front-street-e/",
+            "available_sqft": 6442,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "303",
+                    "type": "Office",
+                    "sq_ft": 3397,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "101",
+                    "type": "Retail",
+                    "sq_ft": 3045,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "110 Yonge",
+            "city": "Toronto",
+            "total_gla": 161294,
+            "available_suites": 7,
+            "link": "https://alliedreit.com/properties/110-yonge-street-jv/",
+            "available_sqft": 29469,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1503",
+                    "type": "Office",
+                    "sq_ft": 3285,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1700",
+                    "type": "Office",
+                    "sq_ft": 3206,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1701",
+                    "type": "Office",
+                    "sq_ft": 2221,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1702",
+                    "type": "Office",
+                    "sq_ft": 2185,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300",
+                    "type": "Office",
+                    "sq_ft": 9900,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "400",
+                    "type": "Office",
+                    "sq_ft": 8035,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "402",
+                    "type": "Office",
+                    "sq_ft": 637,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "116 Simcoe",
+            "city": "Toronto",
+            "total_gla": 15525,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/116-simcoe-street/",
+            "available_sqft": 9500,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100",
+                    "type": "Office",
+                    "sq_ft": 1541,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200",
+                    "type": "Office",
+                    "sq_ft": 3967,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300",
+                    "type": "Office",
+                    "sq_ft": 2424,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "301",
+                    "type": "Office",
+                    "sq_ft": 1568,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "117-119 John",
+            "city": "Toronto",
+            "total_gla": 7562,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/117-119-john-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1185 West Georgia",
+            "city": "Vancouver",
+            "total_gla": 166982,
+            "available_suites": 7,
+            "link": "https://alliedreit.com/properties/1185-west-georgia-street/",
+            "available_sqft": 50525,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1045",
+                    "type": "Office",
+                    "sq_ft": 2293,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1700",
+                    "type": "Office",
+                    "sq_ft": 10983,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300",
+                    "type": "Office",
+                    "sq_ft": 10871,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "400",
+                    "type": "Office",
+                    "sq_ft": 10866,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "605",
+                    "type": "Office",
+                    "sq_ft": 4711,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "650",
+                    "type": "Office",
+                    "sq_ft": 6160,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "740",
+                    "type": "Office",
+                    "sq_ft": 4641,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "12 Brant",
+            "city": "Toronto",
+            "total_gla": 11936,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/12-brant-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "121 John",
+            "city": "Toronto",
+            "total_gla": 3446,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/121-john-street/",
+            "available_sqft": 1528,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100",
+                    "type": "Office",
+                    "sq_ft": 730,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "BSMT",
+                    "type": "Retail",
+                    "sq_ft": 798,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "125 John",
+            "city": "Toronto",
+            "total_gla": 2969,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/125-john-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1286 Homer",
+            "city": "Vancouver",
+            "total_gla": 25613,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/1286-homer-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "137 George",
+            "city": "Toronto",
+            "total_gla": 2399,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/135-137-george-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "141 Bathurst",
+            "city": "Toronto",
+            "total_gla": 10101,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/141-bathurst-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1508 West Broadway",
+            "city": "Vancouver",
+            "total_gla": 133287,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/1508-west-broadway/",
+            "available_sqft": 11496,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "600",
+                    "type": "Office",
+                    "sq_ft": 11496,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "151-155 West Hastings",
+            "city": "Vancouver",
+            "total_gla": 36407,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/151-155-west-hastings-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "1580 West Broadway",
+            "city": "Vancouver",
+            "total_gla": 12561,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/1580-west-broadway/",
+            "available_sqft": 2201,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "113",
+                    "type": "Retail",
+                    "sq_ft": 1256,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "122",
+                    "type": "Retail",
+                    "sq_ft": 945,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "175 Bloor East",
+            "city": "Toronto",
+            "total_gla": 610750,
+            "available_suites": 21,
+            "link": "https://alliedreit.com/properties/175-bloor-street-e-jv/",
+            "available_sqft": 214864,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1000-N",
+                    "type": "Office",
+                    "sq_ft": 21620,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1007-S",
+                    "type": "Office",
+                    "sq_ft": 10182,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1100-N",
+                    "type": "Office",
+                    "sq_ft": 21620,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1200-N",
+                    "type": "Office",
+                    "sq_ft": 21614,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1302-N",
+                    "type": "Office",
+                    "sq_ft": 5351,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1316-N",
+                    "type": "Office",
+                    "sq_ft": 4778,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1400-N",
+                    "type": "Office",
+                    "sq_ft": 21630,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1400-S",
+                    "type": "Office",
+                    "sq_ft": 17417,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1500-S",
+                    "type": "Office",
+                    "sq_ft": 17415,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1600-S",
+                    "type": "Office",
+                    "sq_ft": 17409,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "1700-S",
+                    "type": "Office",
+                    "sq_ft": 17418,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300-S",
+                    "type": "Office",
+                    "sq_ft": 7886,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "304-S",
+                    "type": "Office",
+                    "sq_ft": 1846,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "603-N",
+                    "type": "Office",
+                    "sq_ft": 3832,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "700-S",
+                    "type": "Office",
+                    "sq_ft": 2966,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "701-S",
+                    "type": "Office",
+                    "sq_ft": 2727,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "702-S",
+                    "type": "Office",
+                    "sq_ft": 6517,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "900-N",
+                    "type": "Office",
+                    "sq_ft": 10285,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "2-N",
+                    "type": "Retail",
+                    "sq_ft": 536,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "2-S",
+                    "type": "Retail",
+                    "sq_ft": 1315,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "R5-N",
+                    "type": "Retail",
+                    "sq_ft": 500,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "179 John",
+            "city": "Toronto",
+            "total_gla": 70897,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/179-john-street/",
+            "available_sqft": 3782,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300",
+                    "type": "Office",
+                    "sq_ft": 1838,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "301",
+                    "type": "Office",
+                    "sq_ft": 1944,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "180 John",
+            "city": "Toronto",
+            "total_gla": 45631,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/180-john-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "183 Bathurst",
+            "city": "Toronto",
+            "total_gla": 29779,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/183-bathurst-street/",
+            "available_sqft": 19542,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200",
+                    "type": "Office",
+                    "sq_ft": 2231,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "202",
+                    "type": "Office",
+                    "sq_ft": 2362,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "302",
+                    "type": "Office",
+                    "sq_ft": 4703,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "401",
+                    "type": "Office",
+                    "sq_ft": 2263,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "B01",
+                    "type": "Retail",
+                    "sq_ft": 7983,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "184 Front East",
+            "city": "Toronto",
+            "total_gla": 88945,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/184-front-street-e/",
+            "available_sqft": 26734,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "302",
+                    "type": "Office",
+                    "sq_ft": 5419,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "500",
+                    "type": "Office",
+                    "sq_ft": 5025,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "501",
+                    "type": "Office",
+                    "sq_ft": 6918,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "802",
+                    "type": "Office",
+                    "sq_ft": 9372,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "185 Spadina",
+            "city": "Toronto",
+            "total_gla": 49201,
+            "available_suites": 8,
+            "link": "https://alliedreit.com/properties/185-spadina-avenue/",
+            "available_sqft": 55213,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100",
+                    "type": "Office",
+                    "sq_ft": 8000,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200",
+                    "type": "Office",
+                    "sq_ft": 8121,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300",
+                    "type": "Office",
+                    "sq_ft": 8127,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "400",
+                    "type": "Office",
+                    "sq_ft": 8137,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "500",
+                    "type": "Office",
+                    "sq_ft": 8137,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "600",
+                    "type": "Office",
+                    "sq_ft": 8137,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "700",
+                    "type": "Office",
+                    "sq_ft": 542,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "B01",
+                    "type": "Office",
+                    "sq_ft": 6012,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "19 Duncan",
+            "city": "Toronto",
+            "total_gla": 152799,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/19-duncan-commercial/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "193 Yonge",
+            "city": "Toronto",
+            "total_gla": 51247,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/193-yonge-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "195 Joseph",
+            "city": "Kitchener",
+            "total_gla": 26462,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/195-joseph-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "20 Breithaupt Street",
+            "city": "Kitchener",
+            "total_gla": 294058,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/20-breithaupt-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "200 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 26614,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/200-adelaide-street-w/",
+            "available_sqft": 4486,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300",
+                    "type": "Office",
+                    "sq_ft": 4486,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "204-214 King East",
+            "city": "Toronto",
+            "total_gla": 128923,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/204-214-king-street-e/",
+            "available_sqft": 20088,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "600",
+                    "type": "Office",
+                    "sq_ft": 16033,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "B03",
+                    "type": "Office",
+                    "sq_ft": 4055,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "208-210 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 11477,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/208-adelaide-street-w/",
+            "available_sqft": 1854,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "B01",
+                    "type": "Office",
+                    "sq_ft": 1854,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "217-225 Richmond West",
+            "city": "Toronto",
+            "total_gla": 52870,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/217-richmond-street-w/",
+            "available_sqft": 1447,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "303",
+                    "type": "Office",
+                    "sq_ft": 1447,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "2233 Columbia",
+            "city": "Vancouver",
+            "total_gla": 28443,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/2233-columbia-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "230 Richmond East",
+            "city": "Toronto",
+            "total_gla": 73542,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/230-richmond-street-e/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "241 Spadina",
+            "city": "Toronto",
+            "total_gla": 30873,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/241-spadina-avenue/",
+            "available_sqft": 6162,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300",
+                    "type": "Office",
+                    "sq_ft": 6162,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "25 Breithaupt",
+            "city": "Kitchener",
+            "total_gla": 93689,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/25-breithaupt-reit-only/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "252-264 Adelaide East",
+            "city": "Toronto",
+            "total_gla": 41995,
+            "available_suites": 9,
+            "link": "https://alliedreit.com/properties/252-264-adelaide-street-e/",
+            "available_sqft": 22134,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100-256",
+                    "type": "Office",
+                    "sq_ft": 3015,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100-264",
+                    "type": "Office",
+                    "sq_ft": 1405,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200-252",
+                    "type": "Office",
+                    "sq_ft": 4250,
+                    "availability": "September 1, 2025",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200-264",
+                    "type": "Office",
+                    "sq_ft": 2746,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "252MEZZ",
+                    "type": "Office",
+                    "sq_ft": 2699,
+                    "availability": "September 1, 2025",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300-252",
+                    "type": "Office",
+                    "sq_ft": 4764,
+                    "availability": "September 1, 2025",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "400-258",
+                    "type": "Office",
+                    "sq_ft": 1481,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "402-258",
+                    "type": "Office",
+                    "sq_ft": 1774,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "257 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 37927,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/257-adelaide-street-w/",
+            "available_sqft": 13083,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "400",
+                    "type": "Office",
+                    "sq_ft": 6522,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "500",
+                    "type": "Office",
+                    "sq_ft": 6561,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "28 Atlantic",
+            "city": "Toronto",
+            "total_gla": 10065,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/28-atlantic-avenue/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "312 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 68008,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/312-adelaide-street-w-2/",
+            "available_sqft": 11413,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "102",
+                    "type": "Office",
+                    "sq_ft": 2294,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "301",
+                    "type": "Office",
+                    "sq_ft": 4070,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "800",
+                    "type": "Office",
+                    "sq_ft": 5049,
+                    "availability": "September 1, 2025",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "32 Atlantic",
+            "city": "Toronto",
+            "total_gla": 50434,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/32-atlantic/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "331-333 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 22783,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/331-333-adelaide-w/",
+            "available_sqft": 3737,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200",
+                    "type": "Office",
+                    "sq_ft": 3737,
+                    "availability": "July 1, 2025",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "342 Water",
+            "city": "Vancouver",
+            "total_gla": 21640,
+            "available_suites": 6,
+            "link": "https://alliedreit.com/properties/342-water-street/",
+            "available_sqft": 20150,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200",
+                    "type": "Office",
+                    "sq_ft": 3857,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300",
+                    "type": "Office",
+                    "sq_ft": 3874,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "400",
+                    "type": "Office",
+                    "sq_ft": 3827,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "500",
+                    "type": "Office",
+                    "sq_ft": 3827,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "B01",
+                    "type": "Office",
+                    "sq_ft": 3049,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "101WC",
+                    "type": "Retail",
+                    "sq_ft": 1716,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "35-39 Front East",
+            "city": "Toronto",
+            "total_gla": 48640,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/35-39-front-street-e/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "3510 Saint-Laurent",
+            "city": "Montr\u00e9al",
+            "total_gla": 100667,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/3510-saint-laurent/",
+            "available_sqft": 22001,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "400",
+                    "type": "Office",
+                    "sq_ft": 12239,
+                    "availability": "11/01/2025",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "3518",
+                    "type": "Retail",
+                    "sq_ft": 7737,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "3526",
+                    "type": "Retail",
+                    "sq_ft": 2025,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "3530-3540 Saint-Laurent",
+            "city": "Montr\u00e9al",
+            "total_gla": 56329,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/3530-3540-saint-laurent/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "3575 Saint-Laurent",
+            "city": "Montr\u00e9al",
+            "total_gla": 184317,
+            "available_suites": 15,
+            "link": "https://alliedreit.com/properties/3575-saint-laurent/",
+            "available_sqft": 90027,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100",
+                    "type": "Office",
+                    "sq_ft": 2967,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "124",
+                    "type": "Office",
+                    "sq_ft": 824,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "134",
+                    "type": "Office",
+                    "sq_ft": 1600,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "205",
+                    "type": "Office",
+                    "sq_ft": 3222,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "310",
+                    "type": "Office",
+                    "sq_ft": 10646,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "428",
+                    "type": "Office",
+                    "sq_ft": 308,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "488",
+                    "type": "Office",
+                    "sq_ft": 3809,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "502",
+                    "type": "Office",
+                    "sq_ft": 1561,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "509",
+                    "type": "Office",
+                    "sq_ft": 360,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "515",
+                    "type": "Office",
+                    "sq_ft": 2546,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "600",
+                    "type": "Office",
+                    "sq_ft": 18790,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "705",
+                    "type": "Office",
+                    "sq_ft": 4688,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "800",
+                    "type": "Office",
+                    "sq_ft": 10255,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "801",
+                    "type": "Office",
+                    "sq_ft": 9080,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "900",
+                    "type": "Office",
+                    "sq_ft": 19371,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "358-360 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 50786,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/358-360-adelaide-street-w/",
+            "available_sqft": 30694,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100",
+                    "type": "Office",
+                    "sq_ft": 8160,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200",
+                    "type": "Office",
+                    "sq_ft": 8523,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "301",
+                    "type": "Office",
+                    "sq_ft": 3626,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "400",
+                    "type": "Office",
+                    "sq_ft": 8601,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "B03",
+                    "type": "Office",
+                    "sq_ft": 1784,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "36-40 Wellington East",
+            "city": "Toronto",
+            "total_gla": 21444,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/36-40-wellington-street-e/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "365 Railway",
+            "city": "Vancouver",
+            "total_gla": 21734,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/365-railway-street/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "375 Water",
+            "city": "Vancouver",
+            "total_gla": 177944,
+            "available_suites": 9,
+            "link": "https://alliedreit.com/properties/375-water-street/",
+            "available_sqft": 24043,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "430-PU",
+                    "type": "Office",
+                    "sq_ft": 3105,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "450-PU",
+                    "type": "Office",
+                    "sq_ft": 2730,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "500-PU",
+                    "type": "Office",
+                    "sq_ft": 7134,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "680-PU",
+                    "type": "Office",
+                    "sq_ft": 2054,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "LM009",
+                    "type": "Office",
+                    "sq_ft": 6740,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "R003-PU",
+                    "type": "Retail",
+                    "sq_ft": 1016,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "R004-PU",
+                    "type": "Retail",
+                    "sq_ft": 1264,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "375-381 Queen West",
+            "city": "Toronto",
+            "total_gla": 95895,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/375-381-queen-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "379 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 39968,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/379-adelaide-street-w/",
+            "available_sqft": 7098,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100",
+                    "type": "Office",
+                    "sq_ft": 2460,
+                    "availability": "November 1, 2025",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "101",
+                    "type": "Office",
+                    "sq_ft": 4390,
+                    "availability": "November 1, 2025",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "102",
+                    "type": "Office",
+                    "sq_ft": 248,
+                    "availability": "November 1, 2025",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "383 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 4515,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/383-adelaide-street-w-2/",
+            "available_sqft": 2133,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100",
+                    "type": "Office",
+                    "sq_ft": 2133,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "387 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 6500,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/387-adelaide-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "388 King West",
+            "city": "Toronto",
+            "total_gla": 31210,
+            "available_suites": 6,
+            "link": "https://alliedreit.com/properties/388-king-street-w/",
+            "available_sqft": 10122,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200",
+                    "type": "Office",
+                    "sq_ft": 10122,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "400 Atlantic",
+            "city": "Montr\u00e9al",
+            "total_gla": 91776,
+            "available_suites": 5,
+            "link": "https://alliedreit.com/properties/400-atlantic/",
+            "available_sqft": 39973,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100-PU",
+                    "type": "Office",
+                    "sq_ft": 9875,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200",
+                    "type": "Office",
+                    "sq_ft": 6279,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "300-PU",
+                    "type": "Office",
+                    "sq_ft": 9875,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "800",
+                    "type": "Office",
+                    "sq_ft": 9827,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "900",
+                    "type": "Office",
+                    "sq_ft": 4117,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "400 West Georgia Street",
+            "city": "Vancouver",
+            "total_gla": 347392,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/400-west-georgia-street/",
+            "available_sqft": 14667,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "900",
+                    "type": "Office",
+                    "sq_ft": 14667,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "41-45 Front East",
+            "city": "Toronto",
+            "total_gla": 34592,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/41-45-front-street-e/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "420 Wellington West",
+            "city": "Toronto",
+            "total_gla": 34369,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/420-wellington-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "422-424 Wellington Street W",
+            "city": "Toronto",
+            "total_gla": 15316,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/422-424-wellington-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "425 Adelaide West",
+            "city": "Toronto",
+            "total_gla": 74672,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/425-adelaide-street-w/",
+            "available_sqft": 917,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "702",
+                    "type": "Office",
+                    "sq_ft": 917,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "425 Viger Ouest",
+            "city": "Montr\u00e9al",
+            "total_gla": 316097,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/425-viger-w/",
+            "available_sqft": 21447,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "100",
+                    "type": "Office",
+                    "sq_ft": 21447,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "425-439 King West",
+            "city": "Toronto",
+            "total_gla": 89700,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/425-439-king-street-w/",
+            "available_sqft": 6599,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "B01",
+                    "type": "Retail",
+                    "sq_ft": 6599,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "432 Wellington West",
+            "city": "Toronto",
+            "total_gla": 8997,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/432-wellington-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "441-443 King West",
+            "city": "Toronto",
+            "total_gla": 9281,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/441-443-king-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "445-455 King West",
+            "city": "Toronto",
+            "total_gla": 47852,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/445-455-king-street-w/",
+            "available_sqft": 11009,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "200",
+                    "type": "Office",
+                    "sq_ft": 11009,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "45-55 Colborne",
+            "city": "Toronto",
+            "total_gla": 43909,
+            "available_suites": 4,
+            "link": "https://alliedreit.com/properties/45-55-colborne-street/",
+            "available_sqft": 9191,
+            "suites": [
+                {
+                    "suite_number": "Suite #",
+                    "type": "Unknown",
+                    "sq_ft": 0,
+                    "availability": "Unknown",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "201",
+                    "type": "Office",
+                    "sq_ft": 2692,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "307",
+                    "type": "Office",
+                    "sq_ft": 1075,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "400",
+                    "type": "Office",
+                    "sq_ft": 1592,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                },
+                {
+                    "suite_number": "403",
+                    "type": "Office",
+                    "sq_ft": 3832,
+                    "availability": "Immediate",
+                    "net_rent": "Unknown",
+                    "additional_rent": "Unknown"
+                }
+            ]
+        },
+        {
+            "name": "451-481 Saint-Catherine Ouest",
+            "city": "Montr\u00e9al",
+            "total_gla": 31027,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/451-481-sainte-catherine-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "460 King West",
+            "city": "Toronto",
+            "total_gla": 14799,
+            "available_suites": 0,
+            "link": "https://alliedreit.com/properties/460-king-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "461 King West",
+            "city": "Toronto",
+            "total_gla": 74549,
+            "available_suites": 1,
+            "link": "https://alliedreit.com/properties/461-king-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "468 King West",
+            "city": "Toronto",
+            "total_gla": 55154,
+            "available_suites": 3,
+            "link": "https://alliedreit.com/properties/468-king-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        },
+        {
+            "name": "469 King West",
+            "city": "Toronto",
+            "total_gla": 73417,
+            "available_suites": 2,
+            "link": "https://alliedreit.com/properties/469-king-street-w/",
+            "available_sqft": 0,
+            "suites": []
+        }
+    ],
+    "skipped_properties": [
+        {
+            "name": "451-481 Saint-Catherine Ouest",
+            "link": "https://alliedreit.com/properties/451-481-sainte-catherine-w/",
+            "reason": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n\tGetHandleVerifier [0x0x7ff77b861eb5+80197]\n\tGetHandleVerifier [0x0x7ff77b861f10+80288]\n\t(No symbol) [0x0x7ff77b5e011c]\n\t(No symbol) [0x0x7ff77b627c1d]\n\t(No symbol) [0x0x7ff77b660242]\n\t(No symbol) [0x0x7ff77b65ac14]\n\t(No symbol) [0x0x7ff77b659cca]\n\t(No symbol) [0x0x7ff77b5aa755]\n\tGetHandleVerifier [0x0x7ff77bb1e83d+2949837]\n\tGetHandleVerifier [0x0x7ff77bb18c6a+2926330]\n\tGetHandleVerifier [0x0x7ff77bb386c7+3055959]\n\tGetHandleVerifier [0x0x7ff77b87cfee+191102]\n\tGetHandleVerifier [0x0x7ff77b8850af+224063]\n\t(No symbol) [0x0x7ff77b5a9731]\n\tGetHandleVerifier [0x0x7ff77bc4b568+4182008]\n\tBaseThreadInitThunk [0x0x7ffb65c6e8d7+23]\n\tRtlUserThreadStart [0x0x7ffb669c8d9c+44]\n"
+        },
+        {
+            "name": "461 King West",
+            "link": "https://alliedreit.com/properties/461-king-street-w/",
+            "reason": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n\tGetHandleVerifier [0x0x7ff77b861eb5+80197]\n\tGetHandleVerifier [0x0x7ff77b861f10+80288]\n\t(No symbol) [0x0x7ff77b5e011c]\n\t(No symbol) [0x0x7ff77b627c1d]\n\t(No symbol) [0x0x7ff77b660242]\n\t(No symbol) [0x0x7ff77b65ac14]\n\t(No symbol) [0x0x7ff77b659cca]\n\t(No symbol) [0x0x7ff77b5aa755]\n\tGetHandleVerifier [0x0x7ff77bb1e83d+2949837]\n\tGetHandleVerifier [0x0x7ff77bb18c6a+2926330]\n\tGetHandleVerifier [0x0x7ff77bb386c7+3055959]\n\tGetHandleVerifier [0x0x7ff77b87cfee+191102]\n\tGetHandleVerifier [0x0x7ff77b8850af+224063]\n\t(No symbol) [0x0x7ff77b5a9731]\n\tGetHandleVerifier [0x0x7ff77bc4b568+4182008]\n\tBaseThreadInitThunk [0x0x7ffb65c6e8d7+23]\n\tRtlUserThreadStart [0x0x7ffb669c8d9c+44]\n"
+        },
+        {
+            "name": "468 King West",
+            "link": "https://alliedreit.com/properties/468-king-street-w/",
+            "reason": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n\tGetHandleVerifier [0x0x7ff77b861eb5+80197]\n\tGetHandleVerifier [0x0x7ff77b861f10+80288]\n\t(No symbol) [0x0x7ff77b5e011c]\n\t(No symbol) [0x0x7ff77b627c1d]\n\t(No symbol) [0x0x7ff77b660242]\n\t(No symbol) [0x0x7ff77b65ac14]\n\t(No symbol) [0x0x7ff77b659cca]\n\t(No symbol) [0x0x7ff77b5aa755]\n\tGetHandleVerifier [0x0x7ff77bb1e83d+2949837]\n\tGetHandleVerifier [0x0x7ff77bb18c6a+2926330]\n\tGetHandleVerifier [0x0x7ff77bb386c7+3055959]\n\tGetHandleVerifier [0x0x7ff77b87cfee+191102]\n\tGetHandleVerifier [0x0x7ff77b8850af+224063]\n\t(No symbol) [0x0x7ff77b5a9731]\n\tGetHandleVerifier [0x0x7ff77bc4b568+4182008]\n\tBaseThreadInitThunk [0x0x7ffb65c6e8d7+23]\n\tRtlUserThreadStart [0x0x7ffb669c8d9c+44]\n"
+        },
+        {
+            "name": "469 King West",
+            "link": "https://alliedreit.com/properties/469-king-street-w/",
+            "reason": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n\tGetHandleVerifier [0x0x7ff77b861eb5+80197]\n\tGetHandleVerifier [0x0x7ff77b861f10+80288]\n\t(No symbol) [0x0x7ff77b5e011c]\n\t(No symbol) [0x0x7ff77b627c1d]\n\t(No symbol) [0x0x7ff77b660242]\n\t(No symbol) [0x0x7ff77b65ac14]\n\t(No symbol) [0x0x7ff77b659cca]\n\t(No symbol) [0x0x7ff77b5aa755]\n\tGetHandleVerifier [0x0x7ff77bb1e83d+2949837]\n\tGetHandleVerifier [0x0x7ff77bb18c6a+2926330]\n\tGetHandleVerifier [0x0x7ff77bb386c7+3055959]\n\tGetHandleVerifier [0x0x7ff77b87cfee+191102]\n\tGetHandleVerifier [0x0x7ff77b8850af+224063]\n\t(No symbol) [0x0x7ff77b5a9731]\n\tGetHandleVerifier [0x0x7ff77bc4b568+4182008]\n\tBaseThreadInitThunk [0x0x7ffb65c6e8d7+23]\n\tRtlUserThreadStart [0x0x7ffb669c8d9c+44]\n"
+        }
+    ]
+}
