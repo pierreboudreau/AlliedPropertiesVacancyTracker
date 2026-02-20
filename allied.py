@@ -15,7 +15,7 @@ from selenium.webdriver.chrome.service import Service
 # Set up Selenium
 chrome_options = Options()
 chrome_options.add_argument("--headless")  # Keep this for headless mode
-chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+chrome_options.add_argument("user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36")
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 chrome_options.add_argument("--no-sandbox")  # Required for container environments
 chrome_options.add_argument("--disable-dev-shm-usage")  # Helps with memory issues in containers
@@ -23,6 +23,7 @@ chrome_options.add_argument("--disable-gpu")  # Often needed in headless contain
 
 driver = webdriver.Chrome(options=chrome_options)  # No Service needed; Chromedriver is in PATH
 driver.set_page_load_timeout(90)
+driver.set_window_size(1920, 1080)  # Set a larger window size for better loading in headless
 
 # Dynamic date
 today = datetime.now().strftime("%Y-%m-%d")
@@ -58,10 +59,16 @@ try:
 except (TimeoutException, NoSuchElementException):
     print("No cookie prompt or failed to accept")
 
-# Scroll to load all properties
-for _ in range(5):  # Scroll 5 times
+# Scroll to load all properties with dynamic scrolling
+last_height = driver.execute_script("return document.body.scrollHeight")
+while True:
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
     time.sleep(2)
+    new_height = driver.execute_script("return document.body.scrollHeight")
+    if new_height == last_height:
+        break
+    last_height = new_height
+print("Scrolling complete")
 
 # Check for properties
 try:
@@ -69,7 +76,9 @@ try:
     print("Properties detected")
 except TimeoutException:
     print("No properties found. Logging source...")
-    print(driver.page_source[:2000])
+    with open("page_source.html", "w", encoding="utf-8") as f:
+        f.write(driver.page_source)
+    print("Page source saved to page_source.html")
     driver.quit()
     exit()
 
@@ -144,8 +153,6 @@ for article in property_articles:
     except Exception as e:
         print(f"Error processing article for {name or 'unknown'}: {e}")
 
-driver.quit()  # Close driver after scraping list
-
 total_scraped = len(properties)
 print(f"Total scraped: {total_scraped}")
 
@@ -153,12 +160,13 @@ updated_properties = []
 skipped = []
 
 # Re-initialize driver for individual property scraping if needed
+driver.quit()
 driver = webdriver.Chrome(options=chrome_options)
 driver.set_page_load_timeout(90)
+driver.set_window_size(1920, 1080)
 
 # Optional: Save after each property (set to False or comment out to disable)
 save_after_each = True
-
 for prop in properties:
     updated_prop = prop.copy()
     if prop['available_suites'] > 0:
@@ -360,9 +368,8 @@ for prop in properties:
     # Optionally save after each property
     if save_after_each:
         updated_data = {
-            "date": data['date'],
-            "properties": updated_properties,
-            "skipped_properties": data.get('skipped_properties', []) + skipped
+            "date": today,
+            "properties": updated_properties
         }
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(updated_data, f, indent=4)
@@ -371,7 +378,7 @@ for prop in properties:
 driver.quit()
 
 updated_data = {
-    "date": data['date'],
+    "date": today,
     "properties": updated_properties,
     "skipped_properties": data.get('skipped_properties', []) + skipped
 }
